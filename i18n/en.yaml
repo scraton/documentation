@@ -67,9 +67,6 @@
 - id: btn_free_trial
   translation: "Free Trial"
 
-- id: footer_switch_language
-  translation: "日本語ドキュメントへのリンク。"
-
 - id: footer_need_some_help
   translation: "Need some help? "
 
